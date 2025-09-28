@@ -1,2 +1,0 @@
-# profile
-ferdev.my.id
